@@ -9,6 +9,8 @@
 
 [admin]
 [1] Local Player
+illusive_isc
+ごめんちゅぉ
 
 [staff]
 
